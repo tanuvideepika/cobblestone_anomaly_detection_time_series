@@ -70,7 +70,7 @@ Example Output:
   Average Anomaly Value: 68.25
 ```
 ## References
-- **NAB Dataset**: Numenta Anomaly Benchmark (NAB) - [NAB Dataset](https://numenta.com/learn/research/nab/)
+- **NAB Dataset**: Numenta Anomaly Benchmark (NAB) - [NAB Dataset](https://www.kaggle.com/datasets/boltzmannbrain/nab/data)
 - **Local Outlier Factor**: Documentation for Local Outlier Factor in scikit-learn - [scikit-learn LOF](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html)
 - **Matplotlib**: Official documentation for the Python plotting library - [Matplotlib](https://matplotlib.org/)
 - **Pandas**: Data analysis library for Python - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
