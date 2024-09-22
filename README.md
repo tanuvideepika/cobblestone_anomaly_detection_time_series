@@ -69,7 +69,10 @@ Example Output:
   Percentage of Anomalies: 5.00%
   Average Anomaly Value: 68.25
 ```
-### References
-NAB Dataset - Numenta
-Local Outlier Factor (LOF) - scikit-learn documentation
-Matplotlib - Python Plotting Library
+## References
+- **NAB Dataset**: Numenta Anomaly Benchmark (NAB) - [NAB Dataset](https://numenta.com/learn/research/nab/)
+- **Local Outlier Factor**: Documentation for Local Outlier Factor in scikit-learn - [scikit-learn LOF](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html)
+- **Matplotlib**: Official documentation for the Python plotting library - [Matplotlib](https://matplotlib.org/)
+- **Pandas**: Data analysis library for Python - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- **Numpy**: Fundamental package for numerical computing in Python - [NumPy Documentation](https://numpy.org/doc/stable/)
+
