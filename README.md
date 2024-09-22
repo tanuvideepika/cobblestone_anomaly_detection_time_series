@@ -8,7 +8,6 @@ This project demonstrates an implementation of **anomaly detection** on time-ser
 - [Algorithm Used](#algorithm-used)
 - [How to Run the Project](#how-to-run-the-project)
 - [Results and Statistics](#results-and-statistics)
-- [Requirements](#requirements)
 - [References](#references)
 
 ---
@@ -53,7 +52,7 @@ Make sure to install the required dependencies:
 ### Running the Code
 You can run the script in VS Code, Jupyter Notebook, or any Python environment. The script loads the dataset, applies the LOF algorithm, and outputs anomaly statistics and visualizations.
 ```bash
-  python anomaly_detection.py
+  python main.py
 ```
 ### Results and Statistics
 After running the script, you will see a graph that visualizes the time-series data with detected anomalies. Red x markers indicate the anomalies. The following statistics will also be printed:
