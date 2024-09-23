@@ -25,7 +25,12 @@ The dataset used for this project is the **realTraffic/speed_t4013.csv** from th
 
 ### Sample of the Data
 ```bash
-  timestamp,value 2015-09-01 11:25:00,58 2015-09-01 11:30:00,63 2015-09-01 11:35:00,63 2015-09-01 11:40:00,64 2015-09-01 11:55:00,58
+  timestamp,value
+2015-09-01 11:25:00,58
+2015-09-01 11:30:00,63
+2015-09-01 11:35:00,63
+2015-09-01 11:40:00,64
+2015-09-01 11:55:00,58
 ```
 
 ## Algorithm Used
